@@ -1,0 +1,7 @@
+{
+  "sleep_proc_update_scrs": 10,
+  "sleep_proc_threshold": 5,
+  "traffic_threshold": 20,
+  "traffic_threshold_time_m": 2,
+  "log_path" : "../logs/access_log.log"
+}
